@@ -1,2 +1,3 @@
 # Firstrepo
-This is my first
+This is my first repo
+author khushi singhal
